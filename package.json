@@ -6,15 +6,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/aidinia/CM4025Lab03.git"
-  },
-  "author": "",
+  
+  "author": "Ai",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/aidinia/CM4025Lab03/issues"
-  },
-  "homepage": "https://github.com/aidinia/CM4025Lab03#readme",
-  "description": ""
 }
