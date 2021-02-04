@@ -1,4 +1,8 @@
 var http = require("http");
+const PORT = process.env.PORT || 3000;
+applicationCache.listen(PORT, () => {
+    console.log("app running on port ${ PORT}");
+});
 
 http.createServer(function (request, response){
     response.writeHead(200, {'Content-Type': "text/plain"});
