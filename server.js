@@ -6,7 +6,7 @@ var port = PORT;
 
 app.get("/", function(req,res){
 
-    res.sendFile(__dirname + '/index2.html');
+    res.sendFile(__dirname + '/index.html');
 
 });
 
